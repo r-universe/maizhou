@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "emplik"]
+	path = emplik
+	url = https://github.com/cran/emplik
+	shallow = true
+	registered = true
+[submodule "emplik2"]
+	path = emplik2
+	url = https://github.com/cran/emplik2
+	shallow = true
+	registered = true
+[submodule "emplikAUC"]
+	path = emplikAUC
+	url = https://github.com/cran/emplikAUC
+	shallow = true
+	registered = true
