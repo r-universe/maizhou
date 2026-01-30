@@ -14,3 +14,6 @@
 [submodule "emplikAUC"]
 	path = emplikAUC
 	url = https://github.com/cran/emplikAUC
+[submodule "emplikCS"]
+	path = emplikCS
+	url = https://github.com/cran/emplikCS
